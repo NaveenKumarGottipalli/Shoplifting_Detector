@@ -1,0 +1,10 @@
+[
+ {
+  "sample_id": "S3_S_000112",
+  "reason": "unreadable or <16 frames"
+ },
+ {
+  "sample_id": "S3_N_000101",
+  "reason": "unreadable or <16 frames"
+ }
+]

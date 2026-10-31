@@ -1,0 +1,2754 @@
+{
+ "samples": [
+  {
+   "sample_id": "S3_S_000143",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/S3/data/customdataset/shoplifting/S_000143.mp4",
+   "label": 1,
+   "source": "S3",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "S3_S_000204",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/S3/data/customdataset/shoplifting/S_000204.mp4",
+   "label": 1,
+   "source": "S3",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "S3_S_000167",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/S3/data/customdataset/shoplifting/S_000167.mp4",
+   "label": 1,
+   "source": "S3",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "S3_S_000043",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/S3/data/customdataset/shoplifting/S_000043.mp4",
+   "label": 1,
+   "source": "S3",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "S3_S_000054",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/S3/data/customdataset/shoplifting/S_000054.mp4",
+   "label": 1,
+   "source": "S3",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "S3_S_000096",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/S3/data/customdataset/shoplifting/S_000096.mp4",
+   "label": 1,
+   "source": "S3",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "S3_S_000205",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/S3/data/customdataset/shoplifting/S_000205.mp4",
+   "label": 1,
+   "source": "S3",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "S3_S_000152",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/S3/data/customdataset/shoplifting/S_000152.mp4",
+   "label": 1,
+   "source": "S3",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "S3_S_000093",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/S3/data/customdataset/shoplifting/S_000093.mp4",
+   "label": 1,
+   "source": "S3",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "S3_S_000036",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/S3/data/customdataset/shoplifting/S_000036.mp4",
+   "label": 1,
+   "source": "S3",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "S3_S_000196",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/S3/data/customdataset/shoplifting/S_000196.mp4",
+   "label": 1,
+   "source": "S3",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "S3_S_000074",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/S3/data/customdataset/shoplifting/S_000074.mp4",
+   "label": 1,
+   "source": "S3",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "S3_S_000145",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/S3/data/customdataset/shoplifting/S_000145.mp4",
+   "label": 1,
+   "source": "S3",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "S3_S_000118",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/S3/data/customdataset/shoplifting/S_000118.mp4",
+   "label": 1,
+   "source": "S3",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "S3_S_000110",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/S3/data/customdataset/shoplifting/S_000110.mp4",
+   "label": 1,
+   "source": "S3",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "S3_S_000108",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/S3/data/customdataset/shoplifting/S_000108.mp4",
+   "label": 1,
+   "source": "S3",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "S3_S_000146",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/S3/data/customdataset/shoplifting/S_000146.mp4",
+   "label": 1,
+   "source": "S3",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "S3_S_000035",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/S3/data/customdataset/shoplifting/S_000035.mp4",
+   "label": 1,
+   "source": "S3",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "S3_S_000052",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/S3/data/customdataset/shoplifting/S_000052.mp4",
+   "label": 1,
+   "source": "S3",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "S3_S_000104",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/S3/data/customdataset/shoplifting/S_000104.mp4",
+   "label": 1,
+   "source": "S3",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "S3_S_000071",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/S3/data/customdataset/shoplifting/S_000071.mp4",
+   "label": 1,
+   "source": "S3",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "S3_S_000150",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/S3/data/customdataset/shoplifting/S_000150.mp4",
+   "label": 1,
+   "source": "S3",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "S3_S_000142",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/S3/data/customdataset/shoplifting/S_000142.mp4",
+   "label": 1,
+   "source": "S3",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "S3_S_000173",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/S3/data/customdataset/shoplifting/S_000173.mp4",
+   "label": 1,
+   "source": "S3",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "S3_S_000032",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/S3/data/customdataset/shoplifting/S_000032.mp4",
+   "label": 1,
+   "source": "S3",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "S3_S_000010",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/S3/data/customdataset/shoplifting/S_000010.mp4",
+   "label": 1,
+   "source": "S3",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "S3_S_000050",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/S3/data/customdataset/shoplifting/S_000050.mp4",
+   "label": 1,
+   "source": "S3",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "S3_S_000014",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/S3/data/customdataset/shoplifting/S_000014.mp4",
+   "label": 1,
+   "source": "S3",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "S3_S_000063",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/S3/data/customdataset/shoplifting/S_000063.mp4",
+   "label": 1,
+   "source": "S3",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "S3_S_000072",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/S3/data/customdataset/shoplifting/S_000072.mp4",
+   "label": 1,
+   "source": "S3",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "S3_S_000069",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/S3/data/customdataset/shoplifting/S_000069.mp4",
+   "label": 1,
+   "source": "S3",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "S3_S_000038",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/S3/data/customdataset/shoplifting/S_000038.mp4",
+   "label": 1,
+   "source": "S3",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "S3_S_000060",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/S3/data/customdataset/shoplifting/S_000060.mp4",
+   "label": 1,
+   "source": "S3",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "S3_S_000079",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/S3/data/customdataset/shoplifting/S_000079.mp4",
+   "label": 1,
+   "source": "S3",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "S3_S_000156",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/S3/data/customdataset/shoplifting/S_000156.mp4",
+   "label": 1,
+   "source": "S3",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "S3_N_000058",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/S3/data/customdataset/normal/N_000058.mp4",
+   "label": 0,
+   "source": "S3",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "S3_N_000289",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/S3/data/customdataset/normal/N_000289.mp4",
+   "label": 0,
+   "source": "S3",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "S3_N_000400",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/S3/data/customdataset/normal/N_000400.mp4",
+   "label": 0,
+   "source": "S3",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "S3_N_000190",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/S3/data/customdataset/normal/N_000190.mp4",
+   "label": 0,
+   "source": "S3",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "S3_N_000107",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/S3/data/customdataset/normal/N_000107.mp4",
+   "label": 0,
+   "source": "S3",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "S3_N_000231",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/S3/data/customdataset/normal/N_000231.mp4",
+   "label": 0,
+   "source": "S3",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "S3_N_000106",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/S3/data/customdataset/normal/N_000106.mp4",
+   "label": 0,
+   "source": "S3",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "S3_N_000323",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/S3/data/customdataset/normal/N_000323.mp4",
+   "label": 0,
+   "source": "S3",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "S3_N_000265",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/S3/data/customdataset/normal/N_000265.mp4",
+   "label": 0,
+   "source": "S3",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "S3_N_000285",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/S3/data/customdataset/normal/N_000285.mp4",
+   "label": 0,
+   "source": "S3",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "S3_N_000143",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/S3/data/customdataset/normal/N_000143.mp4",
+   "label": 0,
+   "source": "S3",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "S3_N_000140",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/S3/data/customdataset/normal/N_000140.mp4",
+   "label": 0,
+   "source": "S3",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "S3_N_000399",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/S3/data/customdataset/normal/N_000399.mp4",
+   "label": 0,
+   "source": "S3",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "S3_N_000186",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/S3/data/customdataset/normal/N_000186.mp4",
+   "label": 0,
+   "source": "S3",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "S3_N_000245",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/S3/data/customdataset/normal/N_000245.mp4",
+   "label": 0,
+   "source": "S3",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "S3_N_000308",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/S3/data/customdataset/normal/N_000308.mp4",
+   "label": 0,
+   "source": "S3",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "S3_N_000021",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/S3/data/customdataset/normal/N_000021.mp4",
+   "label": 0,
+   "source": "S3",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "S3_N_000169",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/S3/data/customdataset/normal/N_000169.mp4",
+   "label": 0,
+   "source": "S3",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "S3_N_000445",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/S3/data/customdataset/normal/N_000445.mp4",
+   "label": 0,
+   "source": "S3",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "S3_N_000318",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/S3/data/customdataset/normal/N_000318.mp4",
+   "label": 0,
+   "source": "S3",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "S3_N_000249",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/S3/data/customdataset/normal/N_000249.mp4",
+   "label": 0,
+   "source": "S3",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "S3_N_000090",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/S3/data/customdataset/normal/N_000090.mp4",
+   "label": 0,
+   "source": "S3",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "S3_N_000103",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/S3/data/customdataset/normal/N_000103.mp4",
+   "label": 0,
+   "source": "S3",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "S3_N_000185",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/S3/data/customdataset/normal/N_000185.mp4",
+   "label": 0,
+   "source": "S3",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "S3_N_000353",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/S3/data/customdataset/normal/N_000353.mp4",
+   "label": 0,
+   "source": "S3",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "S3_N_000093",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/S3/data/customdataset/normal/N_000093.mp4",
+   "label": 0,
+   "source": "S3",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "S3_N_000219",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/S3/data/customdataset/normal/N_000219.mp4",
+   "label": 0,
+   "source": "S3",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "S3_N_000202",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/S3/data/customdataset/normal/N_000202.mp4",
+   "label": 0,
+   "source": "S3",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "S3_N_000497",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/S3/data/customdataset/normal/N_000497.mp4",
+   "label": 0,
+   "source": "S3",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "S3_N_000217",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/S3/data/customdataset/normal/N_000217.mp4",
+   "label": 0,
+   "source": "S3",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "S3_N_000062",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/S3/data/customdataset/normal/N_000062.mp4",
+   "label": 0,
+   "source": "S3",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "S3_N_000234",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/S3/data/customdataset/normal/N_000234.mp4",
+   "label": 0,
+   "source": "S3",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "S3_N_000295",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/S3/data/customdataset/normal/N_000295.mp4",
+   "label": 0,
+   "source": "S3",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "S3_N_000347",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/S3/data/customdataset/normal/N_000347.mp4",
+   "label": 0,
+   "source": "S3",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "S3_N_000469",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/S3/data/customdataset/normal/N_000469.mp4",
+   "label": 0,
+   "source": "S3",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "S3_N_000278",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/S3/data/customdataset/normal/N_000278.mp4",
+   "label": 0,
+   "source": "S3",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "S3_N_000290",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/S3/data/customdataset/normal/N_000290.mp4",
+   "label": 0,
+   "source": "S3",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "S3_N_000406",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/S3/data/customdataset/normal/N_000406.mp4",
+   "label": 0,
+   "source": "S3",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "S3_N_000030",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/S3/data/customdataset/normal/N_000030.mp4",
+   "label": 0,
+   "source": "S3",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "S3_N_000175",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/S3/data/customdataset/normal/N_000175.mp4",
+   "label": 0,
+   "source": "S3",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "S3_N_000391",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/S3/data/customdataset/normal/N_000391.mp4",
+   "label": 0,
+   "source": "S3",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "S3_N_000268",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/S3/data/customdataset/normal/N_000268.mp4",
+   "label": 0,
+   "source": "S3",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "S3_N_000198",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/S3/data/customdataset/normal/N_000198.mp4",
+   "label": 0,
+   "source": "S3",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "S3_N_000029",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/S3/data/customdataset/normal/N_000029.mp4",
+   "label": 0,
+   "source": "S3",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "S3_N_000042",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/S3/data/customdataset/normal/N_000042.mp4",
+   "label": 0,
+   "source": "S3",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "S3_N_000197",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/S3/data/customdataset/normal/N_000197.mp4",
+   "label": 0,
+   "source": "S3",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "S3_N_000316",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/S3/data/customdataset/normal/N_000316.mp4",
+   "label": 0,
+   "source": "S3",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "S3_N_000396",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/S3/data/customdataset/normal/N_000396.mp4",
+   "label": 0,
+   "source": "S3",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "S3_N_000135",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/S3/data/customdataset/normal/N_000135.mp4",
+   "label": 0,
+   "source": "S3",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "S3_N_000414",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/S3/data/customdataset/normal/N_000414.mp4",
+   "label": 0,
+   "source": "S3",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "S3_N_000360",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/S3/data/customdataset/normal/N_000360.mp4",
+   "label": 0,
+   "source": "S3",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "S3_N_000194",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/S3/data/customdataset/normal/N_000194.mp4",
+   "label": 0,
+   "source": "S3",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "S3_N_000385",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/S3/data/customdataset/normal/N_000385.mp4",
+   "label": 0,
+   "source": "S3",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "S3_N_000201",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/S3/data/customdataset/normal/N_000201.mp4",
+   "label": 0,
+   "source": "S3",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "S3_N_000407",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/S3/data/customdataset/normal/N_000407.mp4",
+   "label": 0,
+   "source": "S3",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "S3_N_000256",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/S3/data/customdataset/normal/N_000256.mp4",
+   "label": 0,
+   "source": "S3",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "S3_N_000173",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/S3/data/customdataset/normal/N_000173.mp4",
+   "label": 0,
+   "source": "S3",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "S3_N_000242",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/S3/data/customdataset/normal/N_000242.mp4",
+   "label": 0,
+   "source": "S3",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "S3_N_000006",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/S3/data/customdataset/normal/N_000006.mp4",
+   "label": 0,
+   "source": "S3",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "S3_N_000403",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/S3/data/customdataset/normal/N_000403.mp4",
+   "label": 0,
+   "source": "S3",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_videyyyyyyyyyss_41",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/shop lifters/videyyyyyyyyyss_41.mp4",
+   "label": 1,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_videyyyyyyzzzzzyyyss_3",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/shop lifters/videyyyyyyzzzzzyyyss_3.mp4",
+   "label": 1,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_videyyyyyyzzzzzyyyss_1",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/shop lifters/videyyyyyyzzzzzyyyss_1.mp4",
+   "label": 1,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_shop_lifter_96",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/shop lifters/shop_lifter_96.mp4",
+   "label": 1,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_shop_lifter_115",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/shop lifters/shop_lifter_115.mp4",
+   "label": 1,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_videmmmmmmsss_89",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/shop lifters/videmmmmmmsss_89.mp4",
+   "label": 1,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_shop_lifter_89",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/shop lifters/shop_lifter_89.mp4",
+   "label": 1,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_videyyyyyynnnnnnzzzzzyyyss_28",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/shop lifters/videyyyyyynnnnnnzzzzzyyyss_28.mp4",
+   "label": 1,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_videppppsss_36",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/shop lifters/videppppsss_36.mp4",
+   "label": 1,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_shop_lifter_13",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/shop lifters/shop_lifter_13.mp4",
+   "label": 1,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_videyyyyyynnnnnnzzzzzyyyss_29",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/shop lifters/videyyyyyynnnnnnzzzzzyyyss_29.mp4",
+   "label": 1,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_videyyyyyyyyyss_39",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/shop lifters/videyyyyyyyyyss_39.mp4",
+   "label": 1,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_shop_lifter_68",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/shop lifters/shop_lifter_68.mp4",
+   "label": 1,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_videyyyyyynnnnnnzzzzzyyyss_2",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/shop lifters/videyyyyyynnnnnnzzzzzyyyss_2.mp4",
+   "label": 1,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_shop_lifter_57",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/shop lifters/shop_lifter_57.mp4",
+   "label": 1,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_videyyyyyyzzzzzyyyss_17",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/shop lifters/videyyyyyyzzzzzyyyss_17.mp4",
+   "label": 1,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_videppppsss_8",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/shop lifters/videppppsss_8.mp4",
+   "label": 1,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_shop_lifter_15",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/shop lifters/shop_lifter_15.mp4",
+   "label": 1,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_videppppsss_5",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/shop lifters/videppppsss_5.mp4",
+   "label": 1,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_videppppsss_12",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/shop lifters/videppppsss_12.mp4",
+   "label": 1,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_videyyyyyyyyyss_58",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/shop lifters/videyyyyyyyyyss_58.mp4",
+   "label": 1,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_shop_lifter_1",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/shop lifters/shop_lifter_1.mp4",
+   "label": 1,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_videyyyyyyyyyss_2",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/shop lifters/videyyyyyyyyyss_2.mp4",
+   "label": 1,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_videyyyyyynnnnnnzzzzzyyyss_4",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/shop lifters/videyyyyyynnnnnnzzzzzyyyss_4.mp4",
+   "label": 1,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_videyyyyyynnnnnnzzzzzyyyss_8",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/shop lifters/videyyyyyynnnnnnzzzzzyyyss_8.mp4",
+   "label": 1,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_videyyyyyynnnnnnzzzzzyyyss_27",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/shop lifters/videyyyyyynnnnnnzzzzzyyyss_27.mp4",
+   "label": 1,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_videppppsss_9",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/shop lifters/videppppsss_9.mp4",
+   "label": 1,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_shop_lifter_30",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/shop lifters/shop_lifter_30.mp4",
+   "label": 1,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_shop_lifter_123",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/shop lifters/shop_lifter_123.mp4",
+   "label": 1,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_videyyyyyyzzzzzyyyss_2",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/shop lifters/videyyyyyyzzzzzyyyss_2.mp4",
+   "label": 1,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_videyyyyyyzzzzzyyyss_22",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/shop lifters/videyyyyyyzzzzzyyyss_22.mp4",
+   "label": 1,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_videyyyyyyyyyss_17",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/shop lifters/videyyyyyyyyyss_17.mp4",
+   "label": 1,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_videppppsss_11",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/shop lifters/videppppsss_11.mp4",
+   "label": 1,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_videppppsss_10",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/shop lifters/videppppsss_10.mp4",
+   "label": 1,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_videppppsss_4",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/shop lifters/videppppsss_4.mp4",
+   "label": 1,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_videppppsss_26",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/shop lifters/videppppsss_26.mp4",
+   "label": 1,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_shop_lifter_60",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/shop lifters/shop_lifter_60.mp4",
+   "label": 1,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_shop_lifter_54",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/shop lifters/shop_lifter_54.mp4",
+   "label": 1,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_videyyyyyynnnnnnzzzzzyyyss_20",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/shop lifters/videyyyyyynnnnnnzzzzzyyyss_20.mp4",
+   "label": 1,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_videyyyyyynnnnnnzzzzzyyyss_12",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/shop lifters/videyyyyyynnnnnnzzzzzyyyss_12.mp4",
+   "label": 1,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_videppppsss_15",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/shop lifters/videppppsss_15.mp4",
+   "label": 1,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_videppppsss_30",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/shop lifters/videppppsss_30.mp4",
+   "label": 1,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_videppppsss_25",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/shop lifters/videppppsss_25.mp4",
+   "label": 1,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_shop_lifter_31",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/shop lifters/shop_lifter_31.mp4",
+   "label": 1,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_videyyyyyyyyyss_30",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/shop lifters/videyyyyyyyyyss_30.mp4",
+   "label": 1,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_videyyyyyyyyyss_60",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/shop lifters/videyyyyyyyyyss_60.mp4",
+   "label": 1,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_videppppsss_45",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/shop lifters/videppppsss_45.mp4",
+   "label": 1,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_shop_lifter_n_120_1",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/non shop lifters/shop_lifter_n_120_1.mp4",
+   "label": 0,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_shop_lifter_n_156",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/non shop lifters/shop_lifter_n_156.mp4",
+   "label": 0,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_shop_lifter_n_153",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/non shop lifters/shop_lifter_n_153.mp4",
+   "label": 0,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_shop_lifter_n_57",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/non shop lifters/shop_lifter_n_57.mp4",
+   "label": 0,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_shop_lifter_n_102",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/non shop lifters/shop_lifter_n_102.mp4",
+   "label": 0,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_shop_lifter_n_25",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/non shop lifters/shop_lifter_n_25.mp4",
+   "label": 0,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_shop_lifter_n_65_1",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/non shop lifters/shop_lifter_n_65_1.mp4",
+   "label": 0,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_shop_lifter_n_190",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/non shop lifters/shop_lifter_n_190.mp4",
+   "label": 0,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_videppppsss_36__dup1",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/non shop lifters/videppppsss_36.mp4",
+   "label": 0,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_shop_lifter_n_181",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/non shop lifters/shop_lifter_n_181.mp4",
+   "label": 0,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_shop_lifter_n_4",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/non shop lifters/shop_lifter_n_4.mp4",
+   "label": 0,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_videppppsss_67",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/non shop lifters/videppppsss_67.mp4",
+   "label": 0,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_shop_lifter_n_217_1",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/non shop lifters/shop_lifter_n_217_1.mp4",
+   "label": 0,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_shop_lifter_n_84",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/non shop lifters/shop_lifter_n_84.mp4",
+   "label": 0,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_shop_lifter_n_110",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/non shop lifters/shop_lifter_n_110.mp4",
+   "label": 0,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_shop_lifter_n_1",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/non shop lifters/shop_lifter_n_1.mp4",
+   "label": 0,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_shop_lifter_n_61",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/non shop lifters/shop_lifter_n_61.mp4",
+   "label": 0,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_videossssstttsss_52",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/non shop lifters/videossssstttsss_52.mp4",
+   "label": 0,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_shop_lifter_n_115",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/non shop lifters/shop_lifter_n_115.mp4",
+   "label": 0,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_shop_lifter_n_65",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/non shop lifters/shop_lifter_n_65.mp4",
+   "label": 0,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_videossssstttsss_50",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/non shop lifters/videossssstttsss_50.mp4",
+   "label": 0,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_shop_lifter_n_7_1",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/non shop lifters/shop_lifter_n_7_1.mp4",
+   "label": 0,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_shop_lifter_n_77_1",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/non shop lifters/shop_lifter_n_77_1.mp4",
+   "label": 0,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_shop_lifter_n_116_1",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/non shop lifters/shop_lifter_n_116_1.mp4",
+   "label": 0,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_shop_lifter_n_170",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/non shop lifters/shop_lifter_n_170.mp4",
+   "label": 0,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_shop_lifter_n_116",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/non shop lifters/shop_lifter_n_116.mp4",
+   "label": 0,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_videppppsss_8__dup1",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/non shop lifters/videppppsss_8.mp4",
+   "label": 0,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_shop_lifter_n_130_1",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/non shop lifters/shop_lifter_n_130_1.mp4",
+   "label": 0,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_shop_lifter_n_30",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/non shop lifters/shop_lifter_n_30.mp4",
+   "label": 0,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_videppppsss_5__dup1",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/non shop lifters/videppppsss_5.mp4",
+   "label": 0,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_shop_lifter_n_0_1",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/non shop lifters/shop_lifter_n_0_1.mp4",
+   "label": 0,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_shop_lifter_n_156_1",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/non shop lifters/shop_lifter_n_156_1.mp4",
+   "label": 0,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_videppppsss_12__dup1",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/non shop lifters/videppppsss_12.mp4",
+   "label": 0,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_shop_lifter_n_73",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/non shop lifters/shop_lifter_n_73.mp4",
+   "label": 0,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_shop_lifter_n_93_1",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/non shop lifters/shop_lifter_n_93_1.mp4",
+   "label": 0,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_shop_lifter_n_118",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/non shop lifters/shop_lifter_n_118.mp4",
+   "label": 0,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_shop_lifter_n_58_1",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/non shop lifters/shop_lifter_n_58_1.mp4",
+   "label": 0,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_videppppsss_9__dup1",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/non shop lifters/videppppsss_9.mp4",
+   "label": 0,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_videppppsss_84",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/non shop lifters/videppppsss_84.mp4",
+   "label": 0,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_shop_lifter_n_190_1",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/non shop lifters/shop_lifter_n_190_1.mp4",
+   "label": 0,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_shop_lifter_n_100",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/non shop lifters/shop_lifter_n_100.mp4",
+   "label": 0,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_shop_lifter_n_136",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/non shop lifters/shop_lifter_n_136.mp4",
+   "label": 0,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_shop_lifter_n_215",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/non shop lifters/shop_lifter_n_215.mp4",
+   "label": 0,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_shop_lifter_n_205",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/non shop lifters/shop_lifter_n_205.mp4",
+   "label": 0,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_shop_lifter_n_11",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/non shop lifters/shop_lifter_n_11.mp4",
+   "label": 0,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_shop_lifter_n_47_1",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/non shop lifters/shop_lifter_n_47_1.mp4",
+   "label": 0,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_shop_lifter_n_183_1",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/non shop lifters/shop_lifter_n_183_1.mp4",
+   "label": 0,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_videppppsss_11__dup1",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/non shop lifters/videppppsss_11.mp4",
+   "label": 0,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_shop_lifter_n_62_1",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/non shop lifters/shop_lifter_n_62_1.mp4",
+   "label": 0,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_shop_lifter_n_5_1",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/non shop lifters/shop_lifter_n_5_1.mp4",
+   "label": 0,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_shop_lifter_n_185_1",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/non shop lifters/shop_lifter_n_185_1.mp4",
+   "label": 0,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_shop_lifter_n_193_1",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/non shop lifters/shop_lifter_n_193_1.mp4",
+   "label": 0,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_shop_lifter_n_31_1",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/non shop lifters/shop_lifter_n_31_1.mp4",
+   "label": 0,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_shop_lifter_n_199_1",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/non shop lifters/shop_lifter_n_199_1.mp4",
+   "label": 0,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_shop_lifter_n_81",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/non shop lifters/shop_lifter_n_81.mp4",
+   "label": 0,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_shop_lifter_n_38_1",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/non shop lifters/shop_lifter_n_38_1.mp4",
+   "label": 0,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_videppppsss_10__dup1",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/non shop lifters/videppppsss_10.mp4",
+   "label": 0,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_shop_lifter_n_80_1",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/non shop lifters/shop_lifter_n_80_1.mp4",
+   "label": 0,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_shop_lifter_n_88_1",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/non shop lifters/shop_lifter_n_88_1.mp4",
+   "label": 0,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_videppppsss_4__dup1",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/non shop lifters/videppppsss_4.mp4",
+   "label": 0,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_shop_lifter_n_155_1",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/non shop lifters/shop_lifter_n_155_1.mp4",
+   "label": 0,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_videppppsss_26__dup1",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/non shop lifters/videppppsss_26.mp4",
+   "label": 0,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_videppppsss_15__dup1",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/non shop lifters/videppppsss_15.mp4",
+   "label": 0,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_shop_lifter_n_134",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/non shop lifters/shop_lifter_n_134.mp4",
+   "label": 0,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_videppppsss_30__dup1",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/non shop lifters/videppppsss_30.mp4",
+   "label": 0,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_shop_lifter_n_67_1",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/non shop lifters/shop_lifter_n_67_1.mp4",
+   "label": 0,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_shop_lifter_n_167_1",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/non shop lifters/shop_lifter_n_167_1.mp4",
+   "label": 0,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_videppppsss_25__dup1",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/non shop lifters/videppppsss_25.mp4",
+   "label": 0,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_shop_lifter_n_161",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/non shop lifters/shop_lifter_n_161.mp4",
+   "label": 0,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_shop_lifter_n_36",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/non shop lifters/shop_lifter_n_36.mp4",
+   "label": 0,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_shop_lifter_n_107_1",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/non shop lifters/shop_lifter_n_107_1.mp4",
+   "label": 0,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_shop_lifter_n_68",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/non shop lifters/shop_lifter_n_68.mp4",
+   "label": 0,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_shop_lifter_n_186",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/non shop lifters/shop_lifter_n_186.mp4",
+   "label": 0,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "ShopDataSet_videppppsss_45__dup1",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/Shop DataSet/non shop lifters/videppppsss_45.mp4",
+   "label": 0,
+   "source": "ShopDataSet",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "UCF_Shoplifting050_x264",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/UCF/UCF_Crimes/Videos/Shoplifting/Shoplifting050_x264.mp4",
+   "label": 1,
+   "source": "UCF",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "UCF_Shoplifting018_x264",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/UCF/UCF_Crimes/Videos/Shoplifting/Shoplifting018_x264.mp4",
+   "label": 1,
+   "source": "UCF",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "UCF_Shoplifting033_x264",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/UCF/UCF_Crimes/Videos/Shoplifting/Shoplifting033_x264.mp4",
+   "label": 1,
+   "source": "UCF",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "UCF_Shoplifting009_x264",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/UCF/UCF_Crimes/Videos/Shoplifting/Shoplifting009_x264.mp4",
+   "label": 1,
+   "source": "UCF",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "UCF_Shoplifting026_x264",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/UCF/UCF_Crimes/Videos/Shoplifting/Shoplifting026_x264.mp4",
+   "label": 1,
+   "source": "UCF",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "UCF_Shoplifting038_x264",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/UCF/UCF_Crimes/Videos/Shoplifting/Shoplifting038_x264.mp4",
+   "label": 1,
+   "source": "UCF",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "UCF_Shoplifting028_x264",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/UCF/UCF_Crimes/Videos/Shoplifting/Shoplifting028_x264.mp4",
+   "label": 1,
+   "source": "UCF",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "UCF_Shoplifting029_x264",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/UCF/UCF_Crimes/Videos/Shoplifting/Shoplifting029_x264.mp4",
+   "label": 1,
+   "source": "UCF",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "UCF_Shoplifting042_x264",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/UCF/UCF_Crimes/Videos/Shoplifting/Shoplifting042_x264.mp4",
+   "label": 1,
+   "source": "UCF",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "UCF_Shoplifting045_x264",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/UCF/UCF_Crimes/Videos/Shoplifting/Shoplifting045_x264.mp4",
+   "label": 1,
+   "source": "UCF",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "UCF_Shoplifting054_x264",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/UCF/UCF_Crimes/Videos/Shoplifting/Shoplifting054_x264.mp4",
+   "label": 1,
+   "source": "UCF",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "UCF_Shoplifting008_x264",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/UCF/UCF_Crimes/Videos/Shoplifting/Shoplifting008_x264.mp4",
+   "label": 1,
+   "source": "UCF",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "UCF_Shoplifting048_x264",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/UCF/UCF_Crimes/Videos/Shoplifting/Shoplifting048_x264.mp4",
+   "label": 1,
+   "source": "UCF",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "UCF_Shoplifting039_x264",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/UCF/UCF_Crimes/Videos/Shoplifting/Shoplifting039_x264.mp4",
+   "label": 1,
+   "source": "UCF",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "UCF_Shoplifting021_x264",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/UCF/UCF_Crimes/Videos/Shoplifting/Shoplifting021_x264.mp4",
+   "label": 1,
+   "source": "UCF",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "UCF_Normal_Videos_940_x264",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/UCF/UCF_Crimes/Videos/Testing_Normal_Videos_Anomaly/Normal_Videos_940_x264.mp4",
+   "label": 0,
+   "source": "UCF",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "UCF_Normal_Videos_889_x264",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/UCF/UCF_Crimes/Videos/Testing_Normal_Videos_Anomaly/Normal_Videos_889_x264.mp4",
+   "label": 0,
+   "source": "UCF",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "UCF_Normal_Videos_019_x264",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/UCF/UCF_Crimes/Videos/Testing_Normal_Videos_Anomaly/Normal_Videos_019_x264.mp4",
+   "label": 0,
+   "source": "UCF",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "UCF_Normal_Videos_924_x264",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/UCF/UCF_Crimes/Videos/Testing_Normal_Videos_Anomaly/Normal_Videos_924_x264.mp4",
+   "label": 0,
+   "source": "UCF",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "UCF_Normal_Videos947_x264",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/UCF/UCF_Crimes/Videos/Training_Normal_Videos_Anomaly/Normal_Videos947_x264.mp4",
+   "label": 0,
+   "source": "UCF",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "UCF_Normal_Videos322_x264",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/UCF/UCF_Crimes/Videos/Training_Normal_Videos_Anomaly/Normal_Videos322_x264.mp4",
+   "label": 0,
+   "source": "UCF",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "UCF_Normal_Videos566_x264",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/UCF/UCF_Crimes/Videos/Training_Normal_Videos_Anomaly/Normal_Videos566_x264.mp4",
+   "label": 0,
+   "source": "UCF",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "UCF_Normal_Videos425_x264",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/UCF/UCF_Crimes/Videos/Training_Normal_Videos_Anomaly/Normal_Videos425_x264.mp4",
+   "label": 0,
+   "source": "UCF",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "UCF_Normal_Videos204_x264",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/UCF/UCF_Crimes/Videos/Training_Normal_Videos_Anomaly/Normal_Videos204_x264.mp4",
+   "label": 0,
+   "source": "UCF",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "UCF_Normal_Videos192_x264",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/UCF/UCF_Crimes/Videos/Training_Normal_Videos_Anomaly/Normal_Videos192_x264.mp4",
+   "label": 0,
+   "source": "UCF",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "UCF_Normal_Videos616_x264",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/UCF/UCF_Crimes/Videos/Training_Normal_Videos_Anomaly/Normal_Videos616_x264.mp4",
+   "label": 0,
+   "source": "UCF",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "UCF_Normal_Videos440_x264",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/UCF/UCF_Crimes/Videos/Training_Normal_Videos_Anomaly/Normal_Videos440_x264.mp4",
+   "label": 0,
+   "source": "UCF",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "UCF_Normal_Videos253_x264",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/UCF/UCF_Crimes/Videos/Training_Normal_Videos_Anomaly/Normal_Videos253_x264.mp4",
+   "label": 0,
+   "source": "UCF",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "UCF_Normal_Videos942_x264",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/UCF/UCF_Crimes/Videos/Training_Normal_Videos_Anomaly/Normal_Videos942_x264.mp4",
+   "label": 0,
+   "source": "UCF",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "UCF_Normal_Videos121_x264",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/UCF/UCF_Crimes/Videos/Training_Normal_Videos_Anomaly/Normal_Videos121_x264.mp4",
+   "label": 0,
+   "source": "UCF",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "UCF_Normal_Videos579_x264",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/UCF/UCF_Crimes/Videos/Training_Normal_Videos_Anomaly/Normal_Videos579_x264.mp4",
+   "label": 0,
+   "source": "UCF",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "UCF_Normal_Videos465_x264",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/UCF/UCF_Crimes/Videos/Training_Normal_Videos_Anomaly/Normal_Videos465_x264.mp4",
+   "label": 0,
+   "source": "UCF",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "UCF_Normal_Videos102_x264",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/UCF/UCF_Crimes/Videos/Training_Normal_Videos_Anomaly/Normal_Videos102_x264.mp4",
+   "label": 0,
+   "source": "UCF",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "UCF_Normal_Videos273_x264",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/UCF/UCF_Crimes/Videos/Training_Normal_Videos_Anomaly/Normal_Videos273_x264.mp4",
+   "label": 0,
+   "source": "UCF",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "UCF_Normal_Videos101_x264",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/UCF/UCF_Crimes/Videos/Training_Normal_Videos_Anomaly/Normal_Videos101_x264.mp4",
+   "label": 0,
+   "source": "UCF",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "UCF_Normal_Videos368_x264",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/UCF/UCF_Crimes/Videos/Training_Normal_Videos_Anomaly/Normal_Videos368_x264.mp4",
+   "label": 0,
+   "source": "UCF",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "UCF_Normal_Videos305_x264",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/UCF/UCF_Crimes/Videos/Training_Normal_Videos_Anomaly/Normal_Videos305_x264.mp4",
+   "label": 0,
+   "source": "UCF",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "UCF_Normal_Videos734_x264",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/UCF/UCF_Crimes/Videos/Training_Normal_Videos_Anomaly/Normal_Videos734_x264.mp4",
+   "label": 0,
+   "source": "UCF",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "UCF_Normal_Videos332_x264",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/UCF/UCF_Crimes/Videos/Training_Normal_Videos_Anomaly/Normal_Videos332_x264.mp4",
+   "label": 0,
+   "source": "UCF",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "UCF_Normal_Videos574_x264",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/UCF/UCF_Crimes/Videos/Training_Normal_Videos_Anomaly/Normal_Videos574_x264.mp4",
+   "label": 0,
+   "source": "UCF",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "UCF_Normal_Videos693_x264",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/UCF/UCF_Crimes/Videos/Training_Normal_Videos_Anomaly/Normal_Videos693_x264.mp4",
+   "label": 0,
+   "source": "UCF",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "UCF_Normal_Videos227_x264",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/UCF/UCF_Crimes/Videos/Training_Normal_Videos_Anomaly/Normal_Videos227_x264.mp4",
+   "label": 0,
+   "source": "UCF",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "UCF_Normal_Videos215_x264",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/UCF/UCF_Crimes/Videos/Training_Normal_Videos_Anomaly/Normal_Videos215_x264.mp4",
+   "label": 0,
+   "source": "UCF",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "UCF_Normal_Videos250_x264",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/UCF/UCF_Crimes/Videos/Training_Normal_Videos_Anomaly/Normal_Videos250_x264.mp4",
+   "label": 0,
+   "source": "UCF",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "UCF_Normal_Videos416_x264",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/UCF/UCF_Crimes/Videos/Training_Normal_Videos_Anomaly/Normal_Videos416_x264.mp4",
+   "label": 0,
+   "source": "UCF",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "UCF_Normal_Videos017_x264",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/UCF/UCF_Crimes/Videos/Training_Normal_Videos_Anomaly/Normal_Videos017_x264.mp4",
+   "label": 0,
+   "source": "UCF",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "UCF_Normal_Videos450_x264",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/UCF/UCF_Crimes/Videos/Training_Normal_Videos_Anomaly/Normal_Videos450_x264.mp4",
+   "label": 0,
+   "source": "UCF",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "UCF_Normal_Videos523_x264",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/UCF/UCF_Crimes/Videos/Training_Normal_Videos_Anomaly/Normal_Videos523_x264.mp4",
+   "label": 0,
+   "source": "UCF",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "UCF_Normal_Videos671_x264",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/UCF/UCF_Crimes/Videos/Training_Normal_Videos_Anomaly/Normal_Videos671_x264.mp4",
+   "label": 0,
+   "source": "UCF",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "UCF_Normal_Videos795_x264",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/UCF/UCF_Crimes/Videos/Training_Normal_Videos_Anomaly/Normal_Videos795_x264.mp4",
+   "label": 0,
+   "source": "UCF",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "UCF_Normal_Videos221_x264",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/UCF/UCF_Crimes/Videos/Training_Normal_Videos_Anomaly/Normal_Videos221_x264.mp4",
+   "label": 0,
+   "source": "UCF",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "UCF_Normal_Videos225_x264",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/UCF/UCF_Crimes/Videos/Training_Normal_Videos_Anomaly/Normal_Videos225_x264.mp4",
+   "label": 0,
+   "source": "UCF",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "UCF_Normal_Videos145_x264",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/UCF/UCF_Crimes/Videos/Training_Normal_Videos_Anomaly/Normal_Videos145_x264.mp4",
+   "label": 0,
+   "source": "UCF",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "UCF_Normal_Videos856_x264",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/UCF/UCF_Crimes/Videos/Training_Normal_Videos_Anomaly/Normal_Videos856_x264.mp4",
+   "label": 0,
+   "source": "UCF",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "UCF_Normal_Videos399_x264",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/UCF/UCF_Crimes/Videos/Training_Normal_Videos_Anomaly/Normal_Videos399_x264.mp4",
+   "label": 0,
+   "source": "UCF",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "UCF_Normal_Videos084_x264",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/UCF/UCF_Crimes/Videos/Training_Normal_Videos_Anomaly/Normal_Videos084_x264.mp4",
+   "label": 0,
+   "source": "UCF",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "UCF_Normal_Videos948_x264",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/UCF/UCF_Crimes/Videos/Training_Normal_Videos_Anomaly/Normal_Videos948_x264.mp4",
+   "label": 0,
+   "source": "UCF",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "UCF_Normal_Videos007_x264",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/UCF/UCF_Crimes/Videos/Training_Normal_Videos_Anomaly/Normal_Videos007_x264.mp4",
+   "label": 0,
+   "source": "UCF",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  },
+  {
+   "sample_id": "UCF_Normal_Videos354_x264",
+   "abs_path": "/content/hf_dataset/Shoplifting_DataCollection/UCF/UCF_Crimes/Videos/Training_Normal_Videos_Anomaly/Normal_Videos354_x264.mp4",
+   "label": 0,
+   "source": "UCF",
+   "corpus_role": "train_val_corpus",
+   "viability_status": "ok",
+   "quarantine_reason": null,
+   "split": "val"
+  }
+ ]
+}

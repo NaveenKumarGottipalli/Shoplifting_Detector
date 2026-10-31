@@ -1,0 +1,5 @@
+corpus_role,source,fail,ok
+train_val_corpus,S3,2,610
+train_val_corpus,ShopDataSet,0,855
+train_val_corpus,UCF,0,349
+unseen_test,DCSASS,0,896
